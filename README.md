@@ -45,9 +45,6 @@ I believe in the power of collaboration and teamwork. If you're working on an ex
 🎯 Passion meets Profession:
 I'm actively seeking new opportunities to work on challenging projects and make a meaningful impact. If you're looking for a dedicated and driven Python web developer, I'd love to hear from you. Let's create something amazing together!
 
-🌈 Keep Dreaming, Keep Coding, and Keep Exploring! 🚀
-- :mailbox:How to reach me:  [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/nikakoye)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
